@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Problem_Solving_Using_Python
 
 ## Problem 1:
